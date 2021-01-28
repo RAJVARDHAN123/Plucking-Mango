@@ -16,7 +16,7 @@ class Stone{
 
        World.add(world, this.body);
 
-     this.image = loadImage("images/stone.png");
+     this.image = loadImage("stone.png");
 
     }
 
